@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="onscreencontrols">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/onscreencontrols.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

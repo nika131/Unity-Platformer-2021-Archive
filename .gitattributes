@@ -1,0 +1,7 @@
+# 1. Force GitHub to count all .cs files as C#
+*.cs linguist-detectable=true
+*.cs linguist-language=C#
+
+# 2. Tell GitHub to IGNORE these downloaded asset folders from the language stats
+Assets/AstarPathfindingProject/* linguist-vendored
+Assets/assetStore/* linguist-vendored
